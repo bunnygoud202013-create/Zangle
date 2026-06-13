@@ -1,0 +1,87 @@
+[
+    {
+      "title": "Senior Engineers - RF",
+      "employment_type": "Full Time",
+      "location": "Alpharetta, GA",
+      "posted_date": "July 17, 2023",
+      "description": "Responsible for designing, gathering requirements, configuring, implementing, and troubleshooting optimized innovative RF, Wireless networks like Smartsky Networks products utilizing Cisco Command line, LINUX, Python, XML, Xshell, Network Monitoring tools, Wireshark, NetMon, Matlab, LTE optimization tools, etc."
+    },
+    {
+      "title": "Systems Architect",
+      "employment_type": "Full Time",
+      "location": "Alpharetta, GA",
+      "posted_date": "June 1, 2023",
+      "description": "Architect, design, develop, and implement efficient information systems to support enterprise functions using IBM Maximo, WebSphere, Oracle, TOAD, Eclipse, SOAP UI, JIRA, ServiceNow, HTML, JavaScript, etc."
+    },
+    {
+      "title": "Senior Software Engineer",
+      "employment_type": "Full Time",
+      "location": "Cumming, GA",
+      "posted_date": "April 11, 2022",
+      "description": "Design, develop, and implement software applications using technologies such as Java, Spring, Hibernate, and RESTful APIs."
+    },
+    {
+      "title": "Full Stack Developer (Angular)",
+      "employment_type": "Full Time",
+      "location": "West Palm Beach, FL",
+      "posted_date": "March 15, 2025",
+      "description": "Develop and maintain web applications using Angular, Node.js, and MongoDB."
+    },
+    {
+      "title": "Network Engineers",
+      "employment_type": "Full Time",
+      "location": "Alpharetta, GA",
+      "posted_date": "June 27, 2023",
+      "description": "Design, implement, and manage complex network infrastructures."
+    },
+    {
+      "title": "Data Scientist",
+      "employment_type": "Full Time",
+      "location": "New York, NY",
+      "posted_date": "March 28, 2025",
+      "description": "Analyze large datasets to extract meaningful insights and build predictive models."
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "employment_type": "Full Time",
+      "location": "Jersey City, NJ",
+      "posted_date": "March 28, 2025",
+      "description": "Develop and deploy machine learning models for various applications."
+    },
+    {
+      "title": "Cyber Security Specialist",
+      "employment_type": "Full Time",
+      "location": "San Antonio, TX",
+      "posted_date": "March 28, 2025",
+      "description": "Protect systems and networks from cyber threats and ensure compliance with security policies."
+    },
+    {
+      "title": "Java Developer",
+      "employment_type": "Full Time",
+      "location": "Minneapolis, MN",
+      "posted_date": "March 28, 2025",
+      "description": "Develop and maintain Java-based applications and services."
+    },
+    {
+      "title": "DevOps Engineers",
+      "employment_type": "Full Time",
+      "location": "Alpharetta, GA",
+      "posted_date": "April 14, 2024",
+      "description": "Implement and manage CI/CD pipelines and automate infrastructure deployment."
+    },
+    {
+      "title": "Software Engineers",
+      "employment_type": "Full Time",
+      "location": "Alpharetta, GA",
+      "posted_date": "April 8, 2024",
+      "description": "Design, develop, and maintain software applications across various platforms."
+    },
+    {
+      "title": "Quality Analyst",
+      "employment_type": "Full Time",
+      "location": "Alpharetta, GA",
+      "posted_date": "March 3, 2024",
+      "description": "Ensure the quality and reliability of software applications through rigorous testing."
+    }
+  ]
+  
